@@ -50,14 +50,14 @@ Fórmula: imc = peso / (altura x altura)
 Método: Utilize o metodologia abordada no Projeto de Certificação 1.
 
 Exemplo de entrada
-´´´js
+```js
 // Declara o atleta
 const atleta = new Atleta("Cesar Abascal",
     30, 80, 1.70,
     [10, 9.34, 8.42, 10, 7.88]);
-´´´    
+```   
 Exemplo de saída
-´´´js
+```js
 Nome: Cesar Abascal
 Idade: 30
 Peso: 80
@@ -66,7 +66,7 @@ Notas: 10,9.34,8.42,10,7.88
 Categoria: Adulto
 IMC: 27.68166089965398
 Média válida: 8.766666666666666
-´´´ 
+``` 
 ### 📋 Pré-requisitos
 Qualquer Browser com suporte a JS.
 ```
